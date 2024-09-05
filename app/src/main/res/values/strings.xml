@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Saludo</string>
+    <string name="ma_et_hint_dame_tu_nombre">Dame tu nombre</string>
+    <string name="ma_b_saludar">Saludar</string>
+    <string name="ma_tv_hola_extranio">Hola %1$s Bienvenido/a!</string>
+    <string name="ma_iv_content_description">Se muestra una imágen con un apretón de dos manos</string>
+</resources>
